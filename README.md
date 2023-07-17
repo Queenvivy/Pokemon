@@ -60,6 +60,9 @@ https://www.loom.com/share/be7efaa4e9a7490bbd5fe937a4aba897?sid=c996e95f-598c-4d
    # Visualization DashBoard
 https://drive.google.com/file/d/1lUohSDZCym0l4uBEfBCKPLXB1Ymz3-XU/view?usp=sharing
 
+# PDF LINK
+https://1drv.ms/u/c/5611ed91c7ac4ac5/EYTecMLlT1JFp6GbU8ideioBE-K-SXk7TrKPZs8lV8k9tw?e=2zwQRJ
+
    # CONCLUSION
 In conclusion, the Pokémon franchise has captivated audiences worldwide with its rich universe of creatures, trainers, and adventures. Through the analysis of Pokémon data, we have uncovered fascinating insights and trends that shed light on various aspects of this beloved franchise.
 By examining the distribution of Pokémon types, we have discovered which types are the most common and which are the rarest. This understanding can help trainers strategize their teams and anticipate the strengths and weaknesses of different Pokémon types.
